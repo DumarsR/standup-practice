@@ -1,1 +1,2 @@
 # standup-practice
+Hello everyone
